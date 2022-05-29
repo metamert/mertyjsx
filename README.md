@@ -6,5 +6,6 @@
 
 - 💬 Ask me about Blockchain and Js
 - 📫 How to reach me: orkun.info
+ 2022 Devpost Near Hackathon winner (Best Design)
 
 
